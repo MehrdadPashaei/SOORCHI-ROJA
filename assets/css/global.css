@@ -25,10 +25,10 @@
 
  /*Define your gradient here - use online tools to find a gradient matching your branding*/
 .gradient {
-    background: linear-gradient(90deg, #ffffff 0%, #fc67fa 50%, #f8017c 100%);
+    background: linear-gradient(90deg, #ffffff 0%, #ec33a2 50%, #ff096a 100%);
 }
 .gradientLtr {
-    background: linear-gradient(90deg, #f8017c 0%, #fc67fa 50%, #ffffff 100%);
+    background: linear-gradient(90deg, #ff096a 0%, #ec33a2 50%, #ffffff 100%);
 }
 .new-shadow{
     box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
